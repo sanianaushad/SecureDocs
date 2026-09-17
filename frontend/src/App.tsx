@@ -8,7 +8,7 @@ import {
 } from "react-router-dom";
 import "./App.css";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://securedocs-g0rg.onrender.com";
 
 type Folder = {
   id: number;
