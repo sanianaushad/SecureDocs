@@ -179,6 +179,5 @@ http://localhost:5173
 
 **Sania Naushad**
 
-Computer Science and Communication Engineering
-
+Computer Science and Communication Engineering  
 KIIT University
