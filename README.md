@@ -129,6 +129,7 @@ Activate the virtual environment:
 
 ```bash
 .\venv\Scripts\Activate.ps1
+```
 
 Install the dependencies:
 
