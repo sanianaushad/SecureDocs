@@ -175,7 +175,6 @@ http://localhost:5173
 - Activity and access history
 - Improved file-management interface
 
-```markdown
 ## Author
 
 **Sania Naushad**
